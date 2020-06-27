@@ -1,0 +1,12 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /research/
+  - title: "Task demos"
+    url: /demoLinks/
+  - title: "CV"
+    url: /CV/
+  - title: "Contact"
+    url: /contact/
+

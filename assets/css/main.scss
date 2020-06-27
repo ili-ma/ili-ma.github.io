@@ -1,0 +1,63 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-326809412
+html {
+    background-color: #FFF;
+    font-size: 15px; // originally 16px
+    @include breakpoint($medium) {
+        font-size: 15px; // originally 18px
+    }
+
+    @include breakpoint($large) {
+        font-size: 15px; // originally 20px
+    }
+
+    @include breakpoint($x-large) {
+        font-size: 15px; // originally 22px
+    }
+}
+
+del {
+    color: #005bd1;
+    text-decoration: none
+}
+
+.sidebar {
+    opacity: 1;
+}
+
+.masthead {
+    background-color: #eee;
+}
+
+.page__footer {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.grid__item {
+    width: 100%;
+}
+
+.archive__item-teaser {
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0.5em;
+}
+
+.archive__item-text {
+    width: 70%;
+    display: inline-block;
+    margin-left: 1em;
+}
+
+.progress .full {
+    margin-right: unset !important;
+}
