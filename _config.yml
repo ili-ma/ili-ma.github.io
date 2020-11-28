@@ -95,13 +95,13 @@ analytics:
 author:
   name             : "Ili Ma"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Cognitive (neuro)scientist at NYU"
-  location         : "New York City, USA"
+  bio              : "Developmental Cognitive (neuro)scientist"
+  location         : "Leiden University, the Netherlands"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ili.ma@nyu.edu"
+      url: "mailto:i.ma@fsw.leidenuniv.nl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_Ili_Ma"

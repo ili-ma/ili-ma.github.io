@@ -24,8 +24,14 @@ html {
 }
 
 del {
-    color: #005bd1;
-    text-decoration: none
+    color: #081d8d;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 98%;
+}
+
+a {
+    color: #005bd1; //#0659b1;
 }
 
 .sidebar {
@@ -33,11 +39,22 @@ del {
 }
 
 .masthead {
-    background-color: #eee;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.greedy-nav {
+    background: unset;
+}
+
+.greedy-nav .visible-links a {
+    color: white;
+}
+
+.greedy-nav a.site-title {
+    color: white;
 }
 
 .page__footer {
-    background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
