@@ -3,6 +3,8 @@ permalink: /
 layout: single
 author_profile: true
 title:  "About me"
+sitemap:
+  priority: 1
 ---
 I aim to understand the computational and neurocognitive processes that underlie the ~~development of active learning~~ and ~~complex decision-making~~. I am especially interested in how these processes operate in ~~social contexts~~. For instance, how do children and adolescents learn to predict the goals and preferences of their peers and then adjust their own decisions accordingly? 
 
