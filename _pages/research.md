@@ -10,10 +10,10 @@ Preprints & forthcoming
 
 **Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (2020). The Cognitive Mechanisms That Drive Social Belief Updates During Adolescence. *bioRxiv* [[~~preprint~~]](https://www.biorxiv.org/content/10.1101/2020.05.19.105114v1.full) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
 
-**Ma, I.**, Sanfey, A. G., & Ma, W. J. (2020). The Social Cost of Information Gathering for Trust Decisions. *Nature Scientific Reports* (in press). [[~~preprint~~]](https://www.biorxiv.org/content/10.1101/495697v1.abstract) [[~~data~~]](https://github.com/ili-ma/socialsamplingcost) [[~~code~~]](https://github.com/ili-ma/socialsamplingcost)
 
 Published
 ------
+**Ma, I.**, Sanfey, A. G., & Ma, W. J. (2020). The social cost of gathering information for trust decisions. Scientific reports, 10(1), 1-9. [[~~paper~~]](https://doi.org/10.1038/s41598-020-69766-6) [[~~data~~]](https://github.com/ili-ma/socialsamplingcost) [[~~code~~]](https://github.com/ili-ma/socialsamplingcost)
 
 Asscheman, J. S., Koot, S., **Ma, I.**, Buil, J. M., Krabbendam, L., Cillessen, A. H., & van Lier, P. A. (2019). Heightened neural sensitivity to social exclusion in boys with a history of low peer preference during primary school. *Developmental cognitive neuroscience*, 38, 100673. [[~~paper~~]](https://doi.org/10.1016/j.dcn.2019.100673)
 

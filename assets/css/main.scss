@@ -23,6 +23,18 @@ html {
     }
 }
 
+// h1, h2, h3, h4, h5, h6, .sidebar *, .sidebar p, .sidebar .author__name, .masthead__inner-wrap, .archive__item-title {
+//     font-family: Palatino Linotype;
+// }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #374150;
+}
+
+strong {
+    color: #005bd1;
+}
+
 del {
     color: #081d8d;
     text-decoration: none;
@@ -31,7 +43,7 @@ del {
 }
 
 a {
-    color: #005bd1; //#0659b1;
+    color: #575b62; //#0659b1;
 }
 
 .sidebar {
