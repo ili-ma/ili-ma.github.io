@@ -7,12 +7,17 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
+**Ma, I.**, Phaneuff, C., van Opheusden, B., Ma, W.J., Hartley, C. (in press). Distinct developmental trajectories in the cognitive components of complex planning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[~~task demo~~]](/4inarow_demo/)
 
-**Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (2020). The Cognitive Mechanisms That Drive Social Belief Updates During Adolescence. *bioRxiv* [[~~preprint~~]](https://www.biorxiv.org/content/10.1101/2020.05.19.105114v1.full) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
+**Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (in press). Uncertainty about others’ trustworthiness increases during adolescence and guides social information sampling. *bioRxiv* [[~~preprint~~]](https://www.biorxiv.org/content/10.1101/2020.05.19.105114v1.full) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
 
 
 Published
 ------
+**Ma, I.<sup>\*</sup>**, Zanolie, K.<sup>\*</sup>, Bos, M.G., Schreuders, E., Vandenbroucke, A.R., Van Hoorn, J., & Güroğlu, B. (2022). Understanding the dynamics of the developing adolescent brain through team science. *Frontiers in Integrative Neuroscience*, 16. <sup>\*</sup> Shared first authorship. [[~~paper~~]](https://www.frontiersin.org/articles/10.3389/fnint.2022.827097/full)
+
+**Ma, I.**, Ma, W.J., & Gureckis, T.M. (2021). Information sampling for contingency planning. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* [[~~paper~~]](https://www.cns.nyu.edu/malab/static/files/publications/_old/2021%20Ma%20Ma%20Gureckis.pdf) [[~~task demo~~]](/CnTraveler_demo/)
+
 **Ma, I.**, Sanfey, A. G., & Ma, W. J. (2020). The social cost of gathering information for trust decisions. Scientific reports, 10(1), 1-9. [[~~paper~~]](https://doi.org/10.1038/s41598-020-69766-6) [[~~data~~]](https://github.com/ili-ma/socialsamplingcost) [[~~code~~]](https://github.com/ili-ma/socialsamplingcost)
 
 Asscheman, J. S., Koot, S., **Ma, I.**, Buil, J. M., Krabbendam, L., Cillessen, A. H., & van Lier, P. A. (2019). Heightened neural sensitivity to social exclusion in boys with a history of low peer preference during primary school. *Developmental cognitive neuroscience*, 38, 100673. [[~~paper~~]](https://doi.org/10.1016/j.dcn.2019.100673)
