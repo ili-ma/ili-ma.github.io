@@ -9,6 +9,7 @@ header:
 
 We are using a game called four in a row to measure planning ability. This is a collaboration with the [Hartley lab](https://www.hartleylab.org/).
 Originally this task and the computational models were designed by [Bas van Opheusden](https://basvanopheusden.github.io/).
+Check out the [preprint](https://psyarxiv.com/7fqsr).
 
 Click on a tile to place a stone. You play against the computer. Whoever gets four in a row first wins.
 
