@@ -7,9 +7,8 @@ header:
  teaser: assets/images/4inarow.png
 ---
 
-We are using a game called four in a row to measure planning ability. This is a collaboration with the [Hartley lab](https://www.hartleylab.org/).
-Originally this task and the computational models were designed by [Bas van Opheusden](https://basvanopheusden.github.io/).
-Check out the [preprint](https://psyarxiv.com/7fqsr).
+We are using a game called Four-in-a-row to identify the developmental trajectories of cognitive components that underlie complex planning. This is a collaboration with the [Hartley lab](https://www.hartleylab.org/). The original task and computational models were developed by [van Opheusden et al.](https://basvanopheusden.github.io/).
+Check out our [preprint](https://psyarxiv.com/7fqsr).
 
 Click on a tile to place a stone. You play against the computer. Whoever gets four in a row first wins.
 
