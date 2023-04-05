@@ -7,12 +7,16 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
+Ma, I., Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (under review) [[~~preprint~~]](https://psyarxiv.com/d62rw)
 
-Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E.R.A., van Duijvenvoorde, A.C.K. (in press). Expecting the unexpected: A review of learning under uncertainty across development. Cognitive, Affective & Behavioral Neuroscience.
+Liu, W., Shah, N.A., **Ma, I.**, Rosenblau, G., Information sampling for trust decisions undergoes critical changes in preadolescent children with and without autism. (under review) [[~~preprint~~]](https://psyarxiv.com/aqze3/)
 
 
 Published
 ------
+
+Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E.R.A., van Duijvenvoorde, A.C.K. (2023). Expecting the unexpected: A review of learning under uncertainty across development. Cognitive, Affective & Behavioral Neuroscience (in press).
+
 **Ma, I.**, Phaneuff, C., van Opheusden, B., Ma, W.J., Hartley, C. (2022). Distinct developmental trajectories in the cognitive components of complex planning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[~~task demo~~]](/4inarow_demo/)
 
 **Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (2022). Uncertainty about others’ trustworthiness increases during adolescence and guides social information sampling. Scientific Reports, 12, 7634 [[~~paper~~]](https://www.nature.com/articles/s41598-022-09477-2) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
