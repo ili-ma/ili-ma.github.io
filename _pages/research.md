@@ -7,13 +7,16 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
-**Ma, I.**, Phaneuff, C., van Opheusden, B., Ma, W.J., Hartley, C. (in press). Distinct developmental trajectories in the cognitive components of complex planning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[~~task demo~~]](/4inarow_demo/)
 
-**Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (in press). Uncertainty about others’ trustworthiness increases during adolescence and guides social information sampling. *bioRxiv* [[~~preprint~~]](https://www.biorxiv.org/content/10.1101/2020.05.19.105114v1.full) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
+Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E.R.A., van Duijvenvoorde, A.C.K. (in press). Expecting the unexpected: A review of learning under uncertainty across development. Cognitive, Affective & Behavioral Neuroscience.
 
 
 Published
 ------
+**Ma, I.**, Phaneuff, C., van Opheusden, B., Ma, W.J., Hartley, C. (2022). Distinct developmental trajectories in the cognitive components of complex planning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[~~task demo~~]](/4inarow_demo/)
+
+**Ma, I.**, Westhoff, B., & van Duijvenvoorde, A. C. K. (2022). Uncertainty about others’ trustworthiness increases during adolescence and guides social information sampling. Scientific Reports, 12, 7634 [[~~paper~~]](https://www.nature.com/articles/s41598-022-09477-2) [[~~data~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~code~~]](https://github.com/ili-ma/Social_Belief_Updates_Adolescence) [[~~task demo~~]](/ISTG_demo/)
+
 **Ma, I.<sup>\*</sup>**, Zanolie, K.<sup>\*</sup>, Bos, M.G., Schreuders, E., Vandenbroucke, A.R., Van Hoorn, J., & Güroğlu, B. (2022). Understanding the dynamics of the developing adolescent brain through team science. *Frontiers in Integrative Neuroscience*, 16. <sup>\*</sup> Shared first authorship. [[~~paper~~]](https://www.frontiersin.org/articles/10.3389/fnint.2022.827097/full)
 
 **Ma, I.**, Ma, W.J., & Gureckis, T.M. (2021). Information sampling for contingency planning. *Proceedings of the 43rd Annual Conference of the Cognitive Science Society* [[~~paper~~]](https://www.cns.nyu.edu/malab/static/files/publications/_old/2021%20Ma%20Ma%20Gureckis.pdf) [[~~task demo~~]](/CnTraveler_demo/)
