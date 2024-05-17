@@ -36,7 +36,7 @@ Jaime is deeply interested in cognitive computational modelling of social decisi
 <div style="clear: both;"></div>
 
 ## Chiara Migliore
-<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
+<img style="float: left; margin-right: 2em;" src="../assets/images/Chiara.jpeg" width="150"/>
 Chiara joined the CODE lab for her Research Master apprenticeship. She is designing a new experiment to test social influence effects on misinformation susceptibility in adults.
 <div style="clear: both;"></div>
 <br/>
