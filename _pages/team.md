@@ -51,10 +51,10 @@ Daniël is a Master's student in clinical child and adolescent psychology. His w
 
 ## Lyuba Nicheva
 <img style="float: left; margin-right: 2em;" src="../assets/images/Lyuba.jpeg" width="150"/>
-Lyuba studies political sciences and aims to combine this field with insights from developmental psychology. Her work focusses on compiling and annotating a large database of true and false information and to use this in behavioral experiments of misinformation susceptibility.
+Lyuba studies political sciences and aims to combine this field with insights from developmental psychology. She is sdeveloping stimuli for behavioral experiments of misinformation susceptibility.
 <div style="clear: both;"></div>
 
 ## Lea Pagani
 <img style="float: left; margin-right: 2em;" src="../assets/images/Lea.jpeg" width="150"/>
-Lea is a third year Psychology bachelors student at Leiden University. She works on the SMART project (Social Media Misinformation Adolescence and Risk Taking). Her work focusses on compiling and annotating a large database of true and false information that will be used to in behavioral experiments to measure susceptibility to misinformation.
+Lea is a third year Psychology bachelors student at Leiden University. Her work focusses on compiling and annotating a large database of true and false information that will be used to in behavioral experiments to measure susceptibility to misinformation.
 <div style="clear: both;"></div>
