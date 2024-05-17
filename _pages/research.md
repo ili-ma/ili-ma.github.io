@@ -7,15 +7,15 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
-Ma, I., Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (under review) [[~~preprint~~]](https://psyarxiv.com/d62rw)
+Topel, S., Ma, I., van Duijvenvoorde, A., van Steenbergen, H., de Bruijn, E., & Topel, S. Adapting to uncertainty: The role of anxiety and fear of negative evaluation in learning in social and non-social contexts (in revision) [[~~preprint~~]](https://osf.io/preprints/psyarxiv/cjzmg)
 
-Liu, W., Shah, N.A., **Ma, I.**, Rosenblau, G., Information sampling for trust decisions undergoes critical changes in preadolescent children with and without autism. (under review) [[~~preprint~~]](https://psyarxiv.com/aqze3/)
-
+Ma, I., Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
 
 Published
 ------
+Liu, W., Shah, N., **Ma, I.**, & Rosenblau, G. (2024). Strategic social decision making undergoes significant changes in typically developing and autistic early adolescents. Developmental Science, 27(3), e13463.
 
-Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E.R.A., van Duijvenvoorde, A.C.K. (2023). Expecting the unexpected: A review of learning under uncertainty across development. Cognitive, Affective & Behavioral Neuroscience (in press).
+Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E. R., & van Duijvenvoorde, A. C. (2023). Expecting the unexpected: a review of learning under uncertainty across development. Cognitive, Affective, & Behavioral Neuroscience, 23(3), 718-738.
 
 **Ma, I.**, Phaneuff, C., van Opheusden, B., Ma, W.J., Hartley, C. (2022). Distinct developmental trajectories in the cognitive components of complex planning. *Proceedings of the 44th Annual Conference of the Cognitive Science Society*. [[~~task demo~~]](/4inarow_demo/)
 
