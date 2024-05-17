@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ili Ma"
-  avatar           : "/assets/images/profile.jpg"
-  bio              : "Developmental Cognitive (neuro)scientist"
+  name             : "CODE LAB"
+  avatar           : "/assets/images/logo.png"
+  bio              : "Developmental Cognitive (neuro)science"
   location         : "Leiden University, the Netherlands"
   email            :
   links:
