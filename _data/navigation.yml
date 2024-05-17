@@ -1,10 +1,10 @@
 main:
   - title: "Home"
     url: /
-  - title: "Publications"
-    url: /research/
   - title: "Team"
     url: /team/
+  - title: "Publications"
+    url: /research/
   - title: "Task demos"
     url: /demoLinks/
   - title: "CV"
