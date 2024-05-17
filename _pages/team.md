@@ -51,7 +51,7 @@ Daniël is a Master's student in clinical child and adolescent psychology. His w
 
 ## Lyuba Nicheva
 <img style="float: left; margin-right: 2em;" src="../assets/images/Lyuba.jpeg" width="150"/>
-Lyuba studies political sciences and aims to combine this field with insights from developmental psychology. She is sdeveloping stimuli for behavioral experiments of misinformation susceptibility.
+Lyuba studies political sciences and aims to combine this field with insights from developmental psychology. She is developing stimuli for behavioral experiments of misinformation susceptibility.
 <div style="clear: both;"></div>
 
 ## Lea Pagani
