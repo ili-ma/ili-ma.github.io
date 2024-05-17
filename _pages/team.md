@@ -10,7 +10,7 @@ sitemap:
 
 ## Ili Ma
 <img style="float: left; margin-right: 2em;" src="../assets/images/Ili2.png" width="150/"/>
-I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to misinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research, education, and learning enviornments for students.
+I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to misinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research and education, and supportive learning environments for students.
 <div style="clear: both;"></div>
 <br/>
 <br/>
