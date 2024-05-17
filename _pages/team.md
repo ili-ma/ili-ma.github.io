@@ -2,7 +2,7 @@
 permalink: /team/
 layout: single
 author_profile: true
-title:  "Team"
+title:  ""
 sitemap:
   priority: 1
 ---
@@ -12,6 +12,8 @@ sitemap:
 <img style="float: left; margin-right: 2em;" src="../assets/images/Ili2.png" width="150/"/>
 I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to misinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research, education, and learning enviornments for students.
 <div style="clear: both;"></div>
+<br/>
+<br/>
 
 # PhD students
 ## This could be you!
@@ -23,6 +25,8 @@ We are looking for a PhD candidate to join our team! The project will be focusse
 <img style="float: left; margin-right: 2em;" src="../assets/images/Selin.jpeg" width="150"/>
 Selin is interested in how uncertainty drives learning and decision-making processes and how this might be affected by anxiety. She approaches this important topic from different perspectives, using behavioral experiments and computational models.
 <div style="clear: both;"></div>
+<br/>
+<br/>
 
 # Research master students
 
@@ -35,6 +39,8 @@ Jaime is deeply interested in cognitive computational modelling of social decisi
 <img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
 Chiara joined the CODE lab for her Research Master apprenticeship. She is designing a new experiment to test social influence effects on misinformation susceptibility in adults.
 <div style="clear: both;"></div>
+<br/>
+<br/>
 
 # Research Assistants
 
