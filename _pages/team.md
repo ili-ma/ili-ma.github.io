@@ -18,7 +18,7 @@ I am an assistant professor at Leiden University. My research aims to understand
 # PhD students
 ## This could be you!
 <img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
-We are looking for a PhD candidate to join our team! The project will be focussed on susceptibility to misinformation and online risk taking in young adults. Contact Ili for information.
+We are looking for a PhD candidate to join our team! The project will be focussed on susceptibility to misinformation and online risk taking in young adults. The advisor team includes Dr. Neeltje Blankenstein and Dr. Anna van Duijvenvoorde. Reach out to Ili for more info.
 <div style="clear: both;"></div>
 
 ## Selin Topel
