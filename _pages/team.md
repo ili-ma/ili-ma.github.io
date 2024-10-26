@@ -12,12 +12,12 @@ sitemap:
 <img style="float: left; margin-right: 2em;" src="../assets/images/Ili_ERC2.jpg" width="150/"/>
 I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to disinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research and education, and supportive learning environments for students.
 <div style="clear: both;"></div>
-<br/>
 
 
 ## We'll be hiring soon!
 We will soon have openings for two PhD candidates and one postdoc to join our team! The project is part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation. Reach out to Ili for more info.
 <div style="clear: both;"></div>
+<br/>
 
 # PhD students
 
