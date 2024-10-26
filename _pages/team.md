@@ -9,52 +9,62 @@ sitemap:
 # Principal Investigator
 
 ## Ili Ma
-<img style="float: left; margin-right: 2em;" src="../assets/images/Ili2.png" width="150/"/>
-I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to misinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research and education, and supportive learning environments for students.
+<img style="float: left; margin-right: 2em;" src="../assets/images/Ili_ERC2.jpg" width="150/"/>
+I am an assistant professor at Leiden University. My research aims to understand the processes that underlie how adolescents form beliefs and how these guide their decisions. I am particularly interested in adolescents' susceptiblity to disinformation and the affective, social, and cognitive processes that shape false beliefs. I am committed to providing a supportive, inclusive, and collaborative environment for the members of my lab. As a member of the faculty council, I advocate for sustainable practices in research and education, and supportive learning environments for students.
 <div style="clear: both;"></div>
 <br/>
-<br/>
+
+
+## We'll be hiring soon!
+We will soon have openings for two PhD candidates and one postdoc to join our team! The project is part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation. Reach out to Ili for more info.
+<div style="clear: both;"></div>
 
 # PhD students
-## This could be you!
-<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
-We are looking for a PhD candidate to join our team! The project will be focussed on susceptibility to misinformation and online risk taking in young adults. The advisor team includes Dr. Neeltje Blankenstein and Dr. Anna van Duijvenvoorde. Reach out to Ili for more info.
+
+## Anne Snijders
+<img style="float: left; margin-right: 2em;" src="../assets/images/Anne_Snijders.jpg" width="150"/>
+Anne uses a multi-method approach to investigate adolescents' susceptibility to misinformation and their online risky decisions. This project contributes to understanding how social media shapes adolescent development in today's digital age. PhD co-advisors: Neeltje Blankenstein and Anna van Duijvenvoorde.
 <div style="clear: both;"></div>
 
 ## Selin Topel
 <img style="float: left; margin-right: 2em;" src="../assets/images/Selin.jpeg" width="150"/>
-Selin is interested in how uncertainty drives learning and decision-making processes and how this might be affected by anxiety. She approaches this important topic from different perspectives, using behavioral experiments and computational models.
+Selin is interested in how uncertainty drives learning and decision-making processes and how this might be affected by anxiety. She approaches this important topic from different perspectives, using behavioral experiments and computational models. PhD co-advisors: Anna van Duijvenvoorde, Henk van Steenbergen, and Ellen de Bruijn.
 <div style="clear: both;"></div>
 <br/>
 <br/>
 
 # Research master students
 
+## Mattan Helman
+<img style="float: left; margin-right: 2em;" src="../assets/images/Mattan.jpg" width="150"/>
+Mattan's project aims to characterize the relationship between uncertainty intolerance and conspiracy beliefs. He is also a founder of <a href = "https://www.refuser.org/">Refuser.org</a>.
+<div style="clear: both;"></div>
+
+## Zeren Konuksay
+<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
+Zeren is interested in the relationship between language and psychology. Her project uses Natural Language Processing to understand social media affordances.
+<div style="clear: both;"></div>
+
 ## Jaime Vigil
 <img style="float: left; margin-right: 2em;" src="../assets/images/Jaime.jpeg" width="150"/>
 Jaime is deeply interested in cognitive computational modelling of social decision-making. His project focusses on how adolescents learn about other people's latent motives that drive their social decisions. He uses a series of behavioral economic games and computational models to understand this process.
 <div style="clear: both;"></div>
 
-## Chiara Migliore
-<img style="float: left; margin-right: 2em;" src="../assets/images/Chiara.jpeg" width="150"/>
-Chiara joined the CODE lab for her Research Master apprenticeship. She is designing a new experiment to test social influence effects on misinformation susceptibility in adults.
-<div style="clear: both;"></div>
 <br/>
 <br/>
 
 # Research Assistants
 
-## Daniël de Beer
-<img style="float: left; margin-right: 2em;" src="../assets/images/Daniel.jpeg" width="150"/>
-Daniël is a Master's student in clinical child and adolescent psychology. His work focusses on identifying risk factors that make some individuals more susceptible to misinformation than others. He enjoys working with people and organizes interviews and focus groups with parents, young adults and police to strengthens his research.
+## Sophie van Ooijen
+<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
+Sophie helps the lab with various projects.
 <div style="clear: both;"></div>
 
-## Lyuba Nicheva
-<img style="float: left; margin-right: 2em;" src="../assets/images/Lyuba.jpeg" width="150"/>
-Lyuba studies political sciences and aims to combine this field with insights from developmental psychology. She is developing stimuli for behavioral experiments of misinformation susceptibility.
-<div style="clear: both;"></div>
+<br/>
+<br/>
 
-## Lea Pagani
-<img style="float: left; margin-right: 2em;" src="../assets/images/Lea.jpeg" width="150"/>
-Lea is a third year Psychology bachelors student at Leiden University. Her work focusses on compiling and annotating a large database of true and false information that will be used to in behavioral experiments to measure susceptibility to misinformation.
-<div style="clear: both;"></div>
+# Alumni
+#### Daniël de Beer
+#### Lyuba Nicheva
+#### Lea Pagani
+#### Chiara Migliore
