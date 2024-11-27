@@ -54,7 +54,7 @@ Zeren is interested in language processes and how they influence other aspects o
 # Research Assistants
 
 ## Sophie van Ooijen
-<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
+<img style="float: left; margin-right: 2em;" src="../assets/images/Sophie.jpeg" width="150"/>
 Sophie is a second year bachelor's student in Psychology. She helps the lab with various projects.
 <div style="clear: both;"></div>
 
