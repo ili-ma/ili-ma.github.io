@@ -34,6 +34,10 @@ Selin is interested in how uncertainty drives learning and decision-making proce
 <br/>
 
 # Research master students
+## Jaime Vigil
+<img style="float: left; margin-right: 2em;" src="../assets/images/Jaime.jpeg" width="150"/>
+Jaime is deeply interested in cognitive computational modelling of social decision-making. His project focusses on how adolescents learn about other people's latent motives that drive their social decisions. He uses a series of behavioral economic games and computational models to understand this process.
+<div style="clear: both;"></div>
 
 ## Mattan Helman
 <img style="float: left; margin-right: 2em;" src="../assets/images/Mattan.jpg" width="150"/>
@@ -41,15 +45,9 @@ Mattan's project aims to characterize the relationship between uncertainty intol
 <div style="clear: both;"></div>
 
 ## Zeren Konuksay
-<img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
-Zeren is interested in the relationship between language and psychology. Her project uses Natural Language Processing to understand social media affordances.
+<img style="float: left; margin-right: 2em;" src="../assets/images/Zeren.JPG" width="150"/>
+Zeren is interested in language processes and how they influence other aspects of cognition. Her project is uses Natural Language Processing to understand social media use.
 <div style="clear: both;"></div>
-
-## Jaime Vigil
-<img style="float: left; margin-right: 2em;" src="../assets/images/Jaime.jpeg" width="150"/>
-Jaime is deeply interested in cognitive computational modelling of social decision-making. His project focusses on how adolescents learn about other people's latent motives that drive their social decisions. He uses a series of behavioral economic games and computational models to understand this process.
-<div style="clear: both;"></div>
-
 <br/>
 <br/>
 
@@ -57,7 +55,7 @@ Jaime is deeply interested in cognitive computational modelling of social decisi
 
 ## Sophie van Ooijen
 <img style="float: left; margin-right: 2em;" src="../assets/images/logo.png" width="150"/>
-Sophie helps the lab with various projects.
+Sophie is a second year bachelor's student in Psychology. She helps the lab with various projects.
 <div style="clear: both;"></div>
 
 <br/>

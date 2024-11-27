@@ -7,12 +7,14 @@ title:  "Publications"
 
 Preprints & forthcoming
 ------
-Topel, S., Ma, I., van Duijvenvoorde, A., van Steenbergen, H., de Bruijn, E., & Topel, S. Adapting to uncertainty: The role of anxiety and fear of negative evaluation in learning in social and non-social contexts (in revision) [[~~preprint~~]](https://osf.io/preprints/psyarxiv/cjzmg)
+Holton, E., van Opheusden, B., Grohn, J., Ward, H., Grogan, J. P., Lockwood, P., **Ma, I.**, Ma, W.J., & Manohar, S. G. Disentangling the component processes in complex planning impairments following ventromedial prefrontal lesions. [[~~preprint~~]](https://osf.io/y8xqr/)
 
-Ma, I., Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
+**Ma, I.**, Phaneuf, C., van Opheusden, B., Ma, W.J., Hartley, C.A. The component processes of complex planning follow distinct developmental trajectories. (in revision) [[~~preprint~~]](https://psyarxiv.com/d62rw)
 
 Published
 ------
+Topel, S., **Ma, I.**, van Duijvenvoorde, A. C., van Steenbergen, H., & de Bruijn, E. R. (2024). Adapting to uncertainty: The role of anxiety and fear of negative evaluation in learning in social and non-social contexts. Journal of Affective Disorders, 363, 310-319. 
+
 Liu, W., Shah, N., **Ma, I.**, & Rosenblau, G. (2024). Strategic social decision making undergoes significant changes in typically developing and autistic early adolescents. Developmental Science, 27(3), e13463.
 
 Topel, S., **Ma, I.**, Sleutels, J., van Steenbergen, H., de Bruijn, E. R., & van Duijvenvoorde, A. C. (2023). Expecting the unexpected: a review of learning under uncertainty across development. Cognitive, Affective, & Behavioral Neuroscience, 23(3), 718-738.
