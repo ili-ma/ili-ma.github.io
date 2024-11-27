@@ -20,7 +20,7 @@ title                    : Ili Ma
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ili Ma"
-description              : "Personal website of Ili Ma, cognitive neuroscientist"
+description              : "CoDe Lab website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:i.ma@fsw.leidenuniv.nl"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_Ili_Ma"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/ili-ma-2554b521/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ili-ma/"
@@ -115,8 +115,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
