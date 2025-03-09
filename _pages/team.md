@@ -14,8 +14,8 @@ I am an assistant professor at Leiden University. My research aims to understand
 <div style="clear: both;"></div>
 
 
-## We'll be hiring soon!
-We have openings for two PhD candidates to join our team! The projects are part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation and misinformation. See here for the job descriptions and links to the vacancy texts: [~~tinyurl.com/4kuey6t5~~](https://tinyurl.com/4kuey6t5) 
+## We're hiring!
+We have openings for two PhD candidates to join our team! The projects are part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation and misinformation. Check out the job descriptions and links to the vacancy texts: [~~tinyurl.com/4kuey6t5~~](https://tinyurl.com/4kuey6t5) 
 <div style="clear: both;"></div>
 <br/>
 
@@ -28,12 +28,12 @@ Selin is interested in how uncertainty drives learning and decision-making proce
 
 ## Anne Snijders
 <img style="float: left; margin-right: 2em;" src="../assets/images/Anne_Snijders.jpg" width="150"/>
-Anne uses a multi-method approach to investigate adolescents' susceptibility to misinformation and their online risky decisions. This project contributes to understanding how social media shapes adolescent development in today's digital age. Co-advised with Neeltje Blankenstein and Anna van Duijvenvoorde.
+Anne uses a multi-method approach to investigate adolescents' susceptibility to misinformation and their online risky decisions. This project contributes to understanding how social media shapes adolescent development in today's digital age. Co-advised by Neeltje Blankenstein and Anna van Duijvenvoorde.
 <div style="clear: both;"></div>
 
 ## Daniel Sensen
 <img style="float: left; margin-right: 2em;" src="../assets/images/daniel_sensen.jpeg" width="150"/>
-Daniel investigates how adolescents and young adults update their beliefs when consuming information on social media. Using a Bayesian framework, he examines how uncertainty, along with source and message characteristics, shape belief updates and susceptibility to misinformation among the youth. Co-advised with Wouter van den Bos (UvA).
+Daniel investigates how adolescents and young adults update their beliefs when consuming information on social media. Using a Bayesian framework, he examines how uncertainty, along with source and message characteristics, shape belief updates and susceptibility to misinformation among the youth. Co-advised by Wouter van den Bos (UvA).
 <div style="clear: both;"></div> 
 
 <br/>
