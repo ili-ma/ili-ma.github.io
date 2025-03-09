@@ -15,7 +15,7 @@ I am an assistant professor at Leiden University. My research aims to understand
 
 
 ## We'll be hiring soon!
-We have openings for two PhD candidates to join our team! The projects are part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation and misinformation. See here for the job descriptions and links to the vacancy texts: [~~tinyurl.com/4kuey6t5~~](tinyurl.com/4kuey6t5) 
+We have openings for two PhD candidates to join our team! The projects are part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation and misinformation. See here for the job descriptions and links to the vacancy texts: [~~tinyurl.com/4kuey6t5~~](https://tinyurl.com/4kuey6t5) 
 <div style="clear: both;"></div>
 <br/>
 
