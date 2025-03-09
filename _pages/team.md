@@ -15,21 +15,27 @@ I am an assistant professor at Leiden University. My research aims to understand
 
 
 ## We'll be hiring soon!
-We will soon have openings for two PhD candidates and one postdoc to join our team! The project is part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation. Reach out to Ili for more info.
+We have openings for two PhD candidates to join our team! The projects are part of Ili's ERC Starting Grant focussed on characterizing adolescents' susceptibility to disinformation and misinformation. See here for the job descriptions and links to the vacancy texts: [~~tinyurl.com/4kuey6t5~~](tinyurl.com/4kuey6t5) 
 <div style="clear: both;"></div>
 <br/>
 
 # PhD students
 
-## Anne Snijders
-<img style="float: left; margin-right: 2em;" src="../assets/images/Anne_Snijders.jpg" width="150"/>
-Anne uses a multi-method approach to investigate adolescents' susceptibility to misinformation and their online risky decisions. This project contributes to understanding how social media shapes adolescent development in today's digital age. PhD co-advisors: Neeltje Blankenstein and Anna van Duijvenvoorde.
-<div style="clear: both;"></div>
-
 ## Selin Topel
 <img style="float: left; margin-right: 2em;" src="../assets/images/Selin.jpeg" width="150"/>
-Selin is interested in how uncertainty drives learning and decision-making processes and how this might be affected by anxiety. She approaches this important topic from different perspectives, using behavioral experiments and computational models. PhD co-advisors: Anna van Duijvenvoorde, Henk van Steenbergen, and Ellen de Bruijn.
+Selin is interested in how uncertainty drives learning and decision-making processes and how this might be affected by anxiety. She approaches this important topic from different perspectives, using behavioral experiments and computational models. Advisors: Anna van Duijvenvoorde, Henk van Steenbergen, and Ellen de Bruijn.
 <div style="clear: both;"></div>
+
+## Anne Snijders
+<img style="float: left; margin-right: 2em;" src="../assets/images/Anne_Snijders.jpg" width="150"/>
+Anne uses a multi-method approach to investigate adolescents' susceptibility to misinformation and their online risky decisions. This project contributes to understanding how social media shapes adolescent development in today's digital age. Co-advised with Neeltje Blankenstein and Anna van Duijvenvoorde.
+<div style="clear: both;"></div>
+
+## Daniel Sensen
+<img style="float: left; margin-right: 2em;" src="../assets/images/daniel_sensen.jpeg" width="150"/>
+Daniel investigates how adolescents and young adults update their beliefs when consuming information on social media. Using a Bayesian framework, he examines how uncertainty, along with source and message characteristics, shape belief updates and susceptibility to misinformation among the youth. Co-advised with Wouter van den Bos (UvA).
+<div style="clear: both;"></div> 
+
 <br/>
 <br/>
 
