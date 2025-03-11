@@ -52,7 +52,12 @@ Mattan's project aims to characterize the relationship between uncertainty intol
 
 ## Zeren Konuksay
 <img style="float: left; margin-right: 2em;" src="../assets/images/Zeren.JPG" width="150"/>
-Zeren is interested in language processes and how they influence other aspects of cognition. Her project is uses Natural Language Processing to understand social media use.
+Zeren is interested in online misinformation discourse. She tests the effect of critical thinking education on reasoning fallacy recognition. Her project focusses on climate change (mis)information. 
+<div style="clear: both;"></div>
+
+## Kevin Oostrum
+<img style="float: left; margin-right: 2em;" src="../assets/images/kevin.jpg" width="150"/>
+Kevin aims to characterize age differences in social media content. He uses natural language processing and large language models.
 <div style="clear: both;"></div>
 <br/>
 <br/>
